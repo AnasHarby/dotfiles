@@ -1,0 +1,28 @@
+INFO 2/9/2018, 3:09:41 PM  overwriteThemeFolder
+INFO 2/9/2018, 3:09:41 PM  cannot parse user config, use the default one
+INFO 2/9/2018, 3:09:41 PM  ------------------start------------------
+INFO 2/9/2018, 3:09:41 PM  /usr/share/typora/resources/app/locales/Base.lproj/Menu.json
+INFO 2/9/2018, 3:10:11 PM  window.File && (function(){            File.setTheme();        })();
+INFO 2/9/2018, 3:10:13 PM  window.File && (function(){            File.setTheme();        })();
+INFO 2/9/2018, 3:10:15 PM  window.File && (function(){            File.setTheme();        })();
+INFO 2/9/2018, 3:10:18 PM  window.File && (function(){            File.setTheme();        })();
+INFO 2/9/2018, 3:10:21 PM  window.File && (function(){            File.setTheme();        })();
+INFO 2/9/2018, 3:11:26 PM  addRecentDocument
+INFO 2/9/2018, 3:28:11 PM  window.File && (function(){File.option.enableAutoSave = true;})();
+INFO 2/9/2018, 3:28:43 PM  window.File && (function() {                File.option.indentSize = "4";            })();
+INFO 2/9/2018, 3:28:45 PM  window.File && (function() {                File.option.indentSize = "2";            })();
+INFO 2/9/2018, 3:29:28 PM  window.File && (function() {                var app = reqnode("electron").remote.app,                    useCustomFontSize = app.setting.get("useCustomFontSize");                if (useCustomFontSize) {                    document.body.parentElement.style.fontSize = (app.setting.get("customFontSize") || 14) + "px";                } else {                    document.body.parentElement.style.fontSize = "";                }            })();
+INFO 2/9/2018, 3:29:30 PM  window.File && (function() {                var app = reqnode("electron").remote.app,                    useCustomFontSize = app.setting.get("useCustomFontSize");                if (useCustomFontSize) {                    document.body.parentElement.style.fontSize = (app.setting.get("customFontSize") || 14) + "px";                } else {                    document.body.parentElement.style.fontSize = "";                }            })();
+INFO 2/9/2018, 3:29:36 PM  window.File && (function(){            File.setTheme();        })();
+INFO 2/9/2018, 3:29:39 PM  window.File && (function(){            File.setTheme();        })();
+INFO 2/9/2018, 3:29:44 PM  window.File && (function(){            File.setTheme();        })();
+INFO 2/9/2018, 3:29:49 PM  window.File && (function(){            File.setTheme();        })();
+INFO 2/9/2018, 3:29:51 PM  window.File && (function(){            File.setTheme();        })();
+INFO 2/9/2018, 3:29:53 PM  window.File && (function(){            File.setTheme();        })();
+INFO 2/9/2018, 3:29:58 PM  window.File && (function(){            File.setTheme();        })();
+INFO 2/9/2018, 3:29:59 PM  window.File && (function(){            File.setTheme();        })();
+INFO 2/10/2018, 3:59:36 PM  ------------------start------------------
+INFO 2/10/2018, 3:59:38 PM  /usr/share/typora/resources/app/locales/Base.lproj/Menu.json
+INFO 2/10/2018, 3:59:39 PM  problem with request: getaddrinfo ENOTFOUND www.google-analytics.com www.google-analytics.com:80
+INFO 2/10/2018, 4:01:59 PM  addRecentDocument
+INFO 2/10/2018, 4:02:40 PM  ------------------quiting------------------
