@@ -1,11 +1,6 @@
 # dotfiles
 Personal dotfiles for Manjaro-i3 setup
 
-## Screenshots
-![scr1](https://i.imgur.com/8MwboJZ.jpg)
-
-More screenshots can be found [here](https://imgur.com/a/23NY0).
-
 ## Getting Started
 Install these requirements first:
 - [i3](https://github.com/AnasHarby/dotfiles.git)
