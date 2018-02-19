@@ -3,7 +3,7 @@
 import urllib.request, json
 
 city = "Alexandria,eg"
-api_key = "9a839c8e9969bdb574d28d6d40a0849a"
+api_key = ""
 units = "metric"
 unit_key = "C"
 
