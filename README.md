@@ -7,6 +7,8 @@ Install these requirements first:
 - [i3-gaps](https://github.com/Airblader/i3)
 - [i3-blocks](https://github.com/vivien/i3blocks)
 - [i3-status-manjaro](https://github.com/oberon2007/i3status-manjaro)
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [pure-prompt](https://github.com/sindresorhus/pure)
 - [dmenu-manjaro](https://github.com/manjaro/packages-community/tree/master/dmenu-manjaro)
 - [nitrogen](https://github.com/l3ib/nitrogen)
 - [compton](https://github.com/chjj/compton)
