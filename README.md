@@ -14,7 +14,7 @@ Install these requirements first:
 - [compton](https://github.com/chjj/compton)
 - [dunst](https://github.com/dunst-project/dunst)
 - [i3-scrot](https://github.com/manjaro/packages-community/tree/master/i3/i3-scrot)
-- [i3-lock](https://github.com/i3/i3lock)
+- [i3-lock-fancy](https://github.com/meskarune/i3lock-fancy)
 - [conky](https://github.com/brndnmtthws/conky)
 - [polybar](https://github.com/jaagr/polybar)
 - [oomox](https://github.com/actionless/oomox)
